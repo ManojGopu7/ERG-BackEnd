@@ -1,0 +1,5 @@
+# Created at 2025-02-17T16:42:36.387
+Boot Manifest-JAR contains absolute paths in classpath 'D:\SmartEmailAssistant\STS-WorkSpace\email-writer-sb\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
